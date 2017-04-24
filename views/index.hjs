@@ -16,43 +16,19 @@
 					<nav id="nav">
 						<ul>
 							<li><a href="/">Home</a></li>
-							<li>
-								<a href="/" class="icon fa-angle-down">Meet Nam</a>
-								<ul>
-									<!-- /public/images/starwars.jpg -->
-									<li><a href="/api/nam-wayne-storm-trooper-suit">Nam</a></li>
-									<li><a href="/">Shows</a></li>
-									<li>
-										<a href="#">Hold Me</a>
-										<ul>
-											<li><a href="#">Eat Me</a></li>
-											<li><a href="#">Drink Me</a></li>
-										</ul>
-									</li>
-
-								</ul>
-							</li>
-							<li><a href="#" class="button">Sign Up</a></li>
 						</ul>
 					</nav>
 				</header>
 
 				<section id="banner">
 					<h2>Nam Wayne</h2>
-					<p>Nam Nam Nam Nam</p>
-					<ul class="actions">
-						<li><a href="#" class="button special">Sign Up</a></li>
-						<li><a target="_blank" href="https://en.wikipedia.org/wiki/Phenomenon" class="button">What is a Nam Wayne?</a></li>
-					</ul>
 				</section>
 
 				<section id="main" class="container">
-
+					
 					<section class="box special">
 						<header class="major">
-							<h2>America's #1 Cassette-rock
-							<br />
-							Sweetheart</h2>
+							<h2>America's cassette-rock sweetheart</h2>
 							<p>YOLO gastropub +1 chia beard hammock. Williamsburg shoreditch
 								<br />
 								coloring book disrupt shabby chic. Mlkshk next level la croix
@@ -62,104 +38,26 @@
 					</section>
 
 					<section class="box special">
-						<header class="major">
-							<h2>Repent, the time is near</h2>
-						</header>
 						<span class="image featured"><img src="/images/pic06.jpg" alt="" /></span>
 					</section>
-
-					<section class="box special features">
-						<div class="features-row">
-							<section>
-								<span class="icon major fa-bolt accent2"></span>
-								<h3>Magna etiam</h3>
-								<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
-							</section>
-							<section>
-								<span class="icon major fa-area-chart accent3"></span>
-								<h3>Ipsum dolor</h3>
-								<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
-							</section>
-						</div>
-						<div class="features-row">
-							<section>
-								<span class="icon major fa-cloud accent4"></span>
-								<h3>Sed feugiat</h3>
-								<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
-							</section>
-							<section>
-								<span class="icon major fa-lock accent5"></span>
-								<h3>Enim phasellus</h3>
-								<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
-							</section>
-						</div>
-					</section>
-
-					<div class="row">
-						<div class="6u 12u(narrower)">
-
-							<section class="box special">
-								<span class="image featured"><img src="/images/pic02.jpg" alt="" /></span>
-								<h3>Sed lorem adipiscing</h3>
-								<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
-								<ul class="actions">
-									<li><a href="#" class="button alt">Learn More</a></li>
-								</ul>
-							</section>
-
-						</div>
-						<div class="6u 12u(narrower)">
-
-							<section class="box special">
-								<span class="image featured"><img src="/images/pic03.jpg" alt="" /></span>
-								<h3>Accumsan integer</h3>
-								<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
-								<ul class="actions">
-									<li><a href="#" class="button alt">Learn More</a></li>
-								</ul>
-							</section>
-
-						</div>
-					</div>
-
 				</section>
 
-				<section id="cta">
-
-					<h2>Nam Wayne</h2>
-					<p>Art is life.</p>
-
-					<form>
-						<div class="row uniform 50%">
-							<div class="8u 12u(mobilep)">
-								<input type="email" name="email" id="email" placeholder="Join me." />
-							</div>
-
-							<div class="4u 12u(mobilep)">
-								<input type="submit" value="Sign Up" class="fit" />
-							</div>
-						</div>
-					</form>
-
-				</section>
 
 				<footer id="footer">
 					<ul class="icons">
-						<li><a target="_blank" href="https://twitter.com/NamWayne1" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a target="_blank" href="https://www.facebook.com/www.namwayne4444com/#," class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a target="_blank" href="https://soundcloud.com/user-904682438" class="icon fa-instagram"><span class="label">Soundcloud</span></a></li>
-						<li><a target="_blank" href="https://namwayne.bandcamp.com/releases" class="icon fa-github"><span class="label">Bandcamp</span></a></li>
+						<li><a target="_blank" href="https://twitter.com/NamWayne1"><span style="color:  black;">Twitter</span></a></li>
+						<li><a target="_blank" href="https://www.facebook.com/www.namwayne4444com/#,"><span style="color:  black;">Facebook</span></a></li>
+						<li><a target="_blank" href="https://soundcloud.com/user-904682438"><span style="color:  black;">Soundcloud</span></a></li>
+						<li><a target="_blank" href="https://namwayne.bandcamp.com/releases"><span style="color:  black;">Bandcamp</span></a></li>
 					</ul>
 				</footer>
 
 		</div>
-
 			<script src="/assets/js/jquery.min.js"></script>
 			<script src="/assets/js/jquery.dropotron.min.js"></script>
 			<script src="/assets/js/jquery.scrollgress.min.js"></script>
 			<script src="/assets/js/skel.min.js"></script>
 			<script src="/assets/js/util.js"></script>
 			<script src="/assets/js/main.js"></script>
-
 	</body>
 </html>
